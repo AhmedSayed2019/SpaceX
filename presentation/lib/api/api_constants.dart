@@ -1,0 +1,4 @@
+enum LaunchDateSource { WIKI, LAUNCH_LIBRARY }
+enum PayloadType { SATELLITE, DRAGON_BOILERPLATE, DRAGON_10, DRAGON_11, LANDER, CREW_DRAGON }
+enum TentativeMaxPrecision { HOUR, MONTH, DAY, YEAR, QUARTER }
+enum Ship { GOMSTREE, GOSEARCHER }
