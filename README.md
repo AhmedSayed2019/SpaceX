@@ -8,9 +8,9 @@ Simple steps you **should follow whenever** you developing  the Mobile App
     - [Available Labels](#available-labels)
 
 
-|UpComming Launch|Past Launch|Launch Details|
+|Upcoming Launch|Past Launch|Launch Details|
 |---|---|---|
-|![](screen_shots/upcoming_launch.png)|![](screen_shots/upcoming_launch.png)|![](screen_shots/upcoming_launch.png)|
+|![](screen_shots/upcoming_launch.png)|![](screen_shots/past_launch.png)|![](screen_shots/launch_details.png)|
 
 
 ## Platform
