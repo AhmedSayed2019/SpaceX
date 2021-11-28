@@ -16,7 +16,7 @@ Simple steps you **should follow whenever** you developing  the Mobile App
 
 Upcomming Launchs               |  Past Launch                | Launch Detail         
 :-------------------------:|:-------------------------:|:-------------------------:
-|![](screen_shots/upcoming_launch.png?raw=true)|![](screen_shots/past_launch.png?raw=true)|![](screen_shots/launch_details.png?raw=true)|
+|<img src="screen_shots/upcoming_launch.png" width"100">|![](screen_shots/past_launch.png?raw=true)|![](screen_shots/launch_details.png?raw=true)|
 
 
 ## Install
