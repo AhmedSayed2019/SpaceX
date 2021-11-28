@@ -8,9 +8,9 @@ Simple steps you **should follow whenever** you developing  the Mobile App
     - [Available Labels](#available-labels)
 
 
-|UpComming Launch|Past Launch|Launch Details
+|UpComming Launch|Past Launch|Launch Details|
 |---|---|---|
-|![demo](upcoming_launch.png)|![demo](https://res.cloudinary.com/joshuadeguzman/image/upload/v1594533082/codedash.dev/integrating-graphql-in-flutter/add_user_ziihsg.gif)|
+|![](screen_shots/upcoming_launch.png)|![](screen_shots/upcoming_launch.png)|![](screen_shots/upcoming_launch.png)|
 
 
 ## Platform
