@@ -28,11 +28,9 @@ dependencies:
   slide_countdown: ^0.0.7
   youtube_player_iframe: ^2.2.2
   url_launcher: ^6.0.15
-  flutter_spinkit: ^5.1.0
+  flutter_spinkit:
   flutter_localizations:
     sdk: flutter
-
-
 # For DI
   get_it: ^7.2.0
 
@@ -40,7 +38,7 @@ dependencies:
 
   fluro: ^2.0.3
   build_runner: ^2.1.5
-  flutter_form_builder: ^7.0.0
+  flutter_form_builder:
 
   pull_to_refresh: ^2.0.0
   another_flushbar: ^1.10.26
