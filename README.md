@@ -10,7 +10,7 @@ Simple steps you **should follow whenever** you developing  the Mobile App
 
 |UpComming Launch|Past Launch|Launch Details
 |---|---|---|
-|![demo](https://res.cloudinary.com/joshuadeguzman/image/upload/v1594478459/codedash.dev/integrating-graphql-in-flutter/project_overview_dygkdf.gif)|![demo](https://res.cloudinary.com/joshuadeguzman/image/upload/v1594533082/codedash.dev/integrating-graphql-in-flutter/add_user_ziihsg.gif)|
+|![demo](upcoming_launch.png)|![demo](https://res.cloudinary.com/joshuadeguzman/image/upload/v1594533082/codedash.dev/integrating-graphql-in-flutter/add_user_ziihsg.gif)|
 
 
 ## Platform
