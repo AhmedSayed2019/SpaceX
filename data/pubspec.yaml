@@ -1,0 +1,51 @@
+name: data
+description: Data layer for SpaceX.
+
+environment:
+  sdk: ">=2.15.0-116.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  domain:
+    path: ../domain
+
+  stace_x_providers:
+    path: ../presentation
+
+  # For Networking
+  dio_http_cache:
+  dio:
+  retrofit:
+
+  # For Key-Value local storage
+  shared_preferences:
+
+  # For storing dart objects in database table
+  floor:
+
+  # For Model
+  json_annotation:
+  freezed:
+
+  # For DI
+  get_it:
+  injectable:
+  # store data in secure storage
+  flutter_secure_storage:
+
+dev_dependencies:
+  # For Analyzer
+  effective_dart:
+  #  For Dart code generation
+  build_runner:
+  # For Model
+  json_serializable:
+  # For Networking
+  retrofit_generator:
+  # For DI
+  injectable_generator:
+  # SQL database
+  floor_generator:
+
+
