@@ -14,8 +14,8 @@ Simple steps you **should follow whenever** you developing  the Mobile App
 
 ## Screenshots
 
-Upcomming Launchs               |  Past Launch                | Launch Detail         
-:-------------------------:|:-------------------------:|:-------------------------:
+|Upcoming Launches|Past Launches|Launch Detail|       
+|:---:|:---:|:---:|
 |![](screen_shots/upcoming_launch.png?raw=true)|![](screen_shots/past_launch.png?raw=true)|![](screen_shots/launch_details.png?raw=true)|
 
 
