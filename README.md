@@ -4,15 +4,41 @@ Simple steps you **should follow whenever** you developing  the Mobile App
 
 - [Platform](#platform)
 - [Branches](#branches)
+- [Screenshots](#screenshots)
+- [Install](#install)
 - [Issues](#issues)
     - [Available Labels](#available-labels)
 
-
-|Upcoming Launch|Past Launch|Launch Details|
-|---|---|---|
-|![](screen_shots/upcoming_launch.png)|![](screen_shots/past_launch.png)|![](screen_shots/launch_details.png)|
+## Screenshots
 
 
+## Screenshots
+
+Upcomming Launchs               |  Past Launch                | Launch Detail         
+:-------------------------:|:-------------------------:|:-------------------------:
+|![](screen_shots/upcoming_launch.png?raw=true)|![](screen_shots/past_launch.png?raw=true)|![](screen_shots/launch_details.png?raw=true)|
+
+
+## Install
+
+```
+$ flutter pub get
+```
+```
+$ flutter pub run flutter_launcher_icons:main
+```
+```
+$ flutter pub run flutter_native_splash:create
+```
+```
+$ flutter packages pub run build_runner build --delete-conflicting-outputs
+```
+```
+$ flutter packages pub run build_runner build --delete-conflicting-outputs
+```
+```
+$ flutter run  --dart-define=FLAVOR=development --target lib/main.dart
+```
 ## Platform
 
 Any time you develop the App, Please consider to identify your platform for us. and in some examples we will use the following convention `[platform]-[action]`, Where: 
