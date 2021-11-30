@@ -1,4 +1,4 @@
-# Spacex Mobile App Guideline
+# Space X Mobile App Guideline
 
 Simple steps you **should follow whenever** you developing  the Mobile App
 
