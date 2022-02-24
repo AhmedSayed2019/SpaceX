@@ -39,6 +39,13 @@ $ flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 $ flutter run  --dart-define=FLAVOR=development --target lib/main.dart
 ```
+
+# Architecture Proposal
+![Architecture Proposal](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course/blob/master/architecture-proposal.png?raw=true)
+
+
+
+
 ## Platform
 
 Any time you develop the App, Please consider to identify your platform for us. and in some examples we will use the following convention `[platform]-[action]`, Where: 
